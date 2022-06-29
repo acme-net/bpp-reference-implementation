@@ -1,1 +1,1 @@
-# dhp-consumer-platform-ri
+# BPP Reference Implementation
